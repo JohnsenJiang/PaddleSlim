@@ -126,7 +126,7 @@ pruned_program, _, _ = pruner.prune(
 
 ### OptSlimFilterPruner
 
-论文: https://arxiv.org/pdf/1708.06519.pdf
+论文: https://arxiv.org/abs/2003.04566
 
 使用方法如下：
 
